@@ -7,7 +7,7 @@ This project is a simple web application built with FastAPI that allows users to
 - Download YouTube videos in the best available quality.
 - Simple and clean user interface.
 - Basic CSS styling for a better user experience.
-- 
+
  **Project Structure**
 
 ## Requirements
